@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner do Projeto"/>
+</p>
 # 📊 Projeto: Previsão de Risco de Crédito com Machine Learning
 ### por Márcia Bayardino Weyne
 
