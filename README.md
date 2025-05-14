@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Banner do Projeto"/>
-</p>
 # 📊 Projeto: Previsão de Risco de Crédito com Machine Learning
 ### por Márcia Bayardino Weyne
 
@@ -89,10 +86,3 @@ pip install -r requirements_ML.txt
 ## ✅ Observações
 
 Este projeto é parte do meu portfólio em Data Science e demonstra domínio de modelagem preditiva, pipelines de ML, tratamento de dados desbalanceados e entregáveis profissionais.
-
-## 👤 Autora
-
-**Márcia Bayardino Weyne**  
-📍 Rio de Janeiro - Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/marcia-bayardino-weyne)  
-🔗 [GitHub](https://github.com/mbweyne)
